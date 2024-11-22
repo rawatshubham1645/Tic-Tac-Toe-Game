@@ -103,6 +103,7 @@ public class TicTacToe {
 
 		// Check winner in all rows
 		List topRow = Arrays.asList(1, 2, 3);
+		System.out.println("hhhhß");
 		List midRow = Arrays.asList(4, 5, 6);
 		List botRow = Arrays.asList(7, 8, 9);
 
